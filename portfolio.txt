@@ -1,0 +1,96 @@
+
+
+# STUDENT PORTFOLIO
+
+## Personal Information
+
+**Name:** Anushree G L
+**SRN:** R25EJ012
+**Program:** B-Tech
+**Year:** First Year
+
+
+---
+
+## Career Objective
+
+To develop strong technical and problem-solving skills through continuous learning and practical projects. I aim to apply my knowledge in programming and software development to create useful and innovative solutions.
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+* C Programming
+* Python
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+* Jupyter
+
+---
+
+## Mini Project Details
+
+### Project Title
+
+**2D Graphics Editor**
+
+### Project Description
+
+The 2D Graphics Editor is a Python-based application that allows users to draw and manipulate basic geometric shapes on a canvas. The application provides features such as drawing lines, rectangles, circles, selecting objects, moving objects, changing colors, and clearing the canvas.
+
+### Key Features
+
+* Draw geometric shapes
+* Select and move objects
+* Modify object properties
+* Clear canvas
+* User-friendly graphical interface
+
+### Learning Outcomes
+
+* GUI development using Tkinter
+* Event handling
+* Object-oriented programming concepts
+* Software design and implementation
+
+---
+
+## Other Projects
+
+Mini project on student performance prediction using python language
+---
+
+## Strengths
+
+* Quick Learner
+* Team Player
+* Problem Solving
+* Time Management
+* Adaptability
+
+---
+
+## Future Goals
+
+* Improve programming skills in Python and C.
+* Learn advanced web development.
+* Build real-world software projects.
+* Contribute to open-source projects.
+
+---
+
+## Declaration
+
+I hereby declare that the information provided in this portfolio is true to the best of my knowledge and reflects my academic and project work.
+
+**Name:** Anushree G L
+**SRN:** R25EJ012
+
+---
+
